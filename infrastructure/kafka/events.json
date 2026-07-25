@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "topics": [
+    {
+      "name": "user.events",
+      "partitions": 3,
+      "replication_factor": 1,
+      "description": "User registration, authentication, and profile updates"
+    },
+    {
+      "name": "job.events",
+      "partitions": 3,
+      "replication_factor": 1,
+      "description": "Job posting, modifications, and closure events"
+    },
+    {
+      "name": "application.events",
+      "partitions": 3,
+      "replication_factor": 1,
+      "description": "Job application submissions, status updates, and shortlisting"
+    },
+    {
+      "name": "notification.events",
+      "partitions": 3,
+      "replication_factor": 1,
+      "description": "Trigger events for email and real-time push notifications"
+    },
+    {
+      "name": "ai.resume.events",
+      "partitions": 3,
+      "replication_factor": 1,
+      "description": "Resume parsing, embedding generation, and match-score computations"
+    }
+  ]
+}
