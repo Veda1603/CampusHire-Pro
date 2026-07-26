@@ -1,0 +1,7 @@
+$kind: http-request
+name: Get company by id
+method: GET
+url: "{{base_url}}/api/company/{{company_id}}"
+auth:
+  type: bearer
+order: 11000

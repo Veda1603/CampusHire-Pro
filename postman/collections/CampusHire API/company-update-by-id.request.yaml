@@ -1,0 +1,18 @@
+$kind: http-request
+name: 'Update company by id'
+method: PUT
+url: '{{base_url}}/api/company/{{company_id}}'
+order: 12000
+headers:
+  - key: Content-Type
+    value: application/json
+body:
+  type: json
+  content: |-
+    {
+      "companyName": "CampusHire Technologies",
+      "industry": "Software",
+      "location": "Mumbai",
+      "website": "https://campushire.example.com",
+      "description": "Updated company profile"
+    }

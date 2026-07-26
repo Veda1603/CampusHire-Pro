@@ -1,0 +1,11 @@
+$kind: http-request
+name: 'Update application status'
+method: PUT
+url: '{{base_url}}/api/applications/{{application_id}}/status'
+order: 20000
+headers:
+  - key: Authorization
+    value: 'Bearer {{auth_token}}'
+queryParams:
+  - key: status
+    value: SHORTLISTED

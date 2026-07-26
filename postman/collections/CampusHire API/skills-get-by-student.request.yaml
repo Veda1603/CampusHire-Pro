@@ -1,0 +1,5 @@
+$kind: http-request
+name: 'Get skills by student'
+method: GET
+url: '{{base_url}}/api/skills/{{student_id}}'
+order: 26000

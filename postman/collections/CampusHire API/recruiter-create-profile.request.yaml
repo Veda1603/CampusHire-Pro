@@ -1,0 +1,18 @@
+$kind: http-request
+name: 'Create recruiter profile'
+method: POST
+url: '{{base_url}}/api/recruiter/profile'
+order: 7000
+headers:
+  - key: Content-Type
+    value: application/json
+  - key: Authorization
+    value: 'Bearer {{auth_token}}'
+body:
+  type: json
+  content: |-
+    {
+      "companyId": 1,
+      "designation": "HR Manager",
+      "phoneNumber": "+91-9876543210"
+    }

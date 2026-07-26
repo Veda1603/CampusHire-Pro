@@ -1,0 +1,14 @@
+$kind: http-request
+name: 'Upload student resume'
+method: POST
+url: '{{base_url}}/api/student/resume/upload'
+order: 6000
+headers:
+  - key: Authorization
+    value: 'Bearer {{auth_token}}'
+body:
+  type: formdata
+  content:
+    - key: file
+      type: file
+      src: ''

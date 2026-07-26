@@ -1,0 +1,23 @@
+$kind: http-request
+name: 'Create job'
+method: POST
+url: '{{base_url}}/api/jobs'
+order: 13000
+headers:
+  - key: Content-Type
+    value: application/json
+  - key: Authorization
+    value: 'Bearer {{auth_token}}'
+body:
+  type: json
+  content: |-
+    {
+      "title": "Java Backend Intern",
+      "description": "Build Spring Boot APIs",
+      "location": "Pune",
+      "salary": 25000,
+      "jobType": "INTERNSHIP",
+      "skillsRequired": "Java, Spring Boot, PostgreSQL",
+      "experienceRequired": 0,
+      "companyId": 1
+    }

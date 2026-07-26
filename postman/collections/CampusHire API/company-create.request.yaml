@@ -1,0 +1,17 @@
+$kind: http-request
+name: Create company
+method: POST
+url: "{{base_url}}/api/company"
+order: 10000
+headers:
+  Content-Type: application/json
+body:
+  type: json
+  content: |-
+    {
+      "companyName": "Dhande Technologies",
+      "industry": "Software",
+      "location": "Pune",
+      "website": "https://dhande.example.com",
+      "description": "Campus hiring platform company"
+    }

@@ -1,0 +1,8 @@
+$kind: http-request
+name: 'Get recruiter jobs'
+method: GET
+url: '{{base_url}}/api/recruiter/jobs'
+order: 21000
+headers:
+  - key: Authorization
+    value: 'Bearer {{auth_token}}'

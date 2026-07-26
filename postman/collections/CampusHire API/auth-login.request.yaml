@@ -1,0 +1,25 @@
+$kind: http-request
+name: Login user
+method: POST
+url: "{{base_url}}/api/auth/login"
+order: 2000
+headers:
+  Content-Type: application/json
+body:
+  type: json
+  content: |-
+    {
+      "email": "recruiter@example.com",
+      "password": "Password@123"
+    }
+scripts:
+  - type: afterResponse
+    code: |-
+      try {
+        const data = pm.response.json();
+        const token = data.token || data.jwt || data.accessToken;
+        if (token) {
+          pm.collectionVariables.set('auth_token', token);
+        }
+      } catch (e) {}
+    language: text/javascript

@@ -1,0 +1,5 @@
+$kind: collection
+name: CampusHire API
+variables:
+  base_url: http://localhost:8080
+  auth_token: ""

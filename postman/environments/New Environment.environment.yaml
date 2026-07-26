@@ -1,0 +1,12 @@
+name: New Environment
+values:
+  - key: base_url
+    value: ''
+  - key: company_id
+    value: ''
+  - key: job_id
+    value: ''
+  - key: '{{auth_token}}'
+    secret: true
+  - key: application_id
+    value: ''

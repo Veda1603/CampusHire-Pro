@@ -1,0 +1,10 @@
+$kind: http-request
+name: 'Search jobs'
+method: GET
+url: '{{base_url}}/api/jobs/search'
+order: 15000
+queryParams:
+  - key: keyword
+    value: java
+  - key: location
+    value: Pune

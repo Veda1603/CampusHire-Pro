@@ -1,0 +1,16 @@
+$kind: http-request
+name: 'Apply to job'
+method: POST
+url: '{{base_url}}/api/applications/apply'
+order: 17000
+headers:
+  - key: Content-Type
+    value: application/json
+  - key: Authorization
+    value: 'Bearer {{auth_token}}'
+body:
+  type: json
+  content: |-
+    {
+      "jobId": 1
+    }

@@ -1,0 +1,5 @@
+$kind: http-request
+name: 'Get student profile details'
+method: GET
+url: '{{base_url}}/api/student-profile/{{student_id}}'
+order: 24000
