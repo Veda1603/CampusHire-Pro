@@ -66,16 +66,16 @@ public class SecurityConfig {
                         HttpMethod.GET,
                         "/api/company/**")
                .authenticated()
-                // Admin only create company
-                .requestMatchers(
-                        HttpMethod.POST,
-                        "/api/company/**")
-                .hasRole("ADMIN")
-                // Admin only update company
-                .requestMatchers(
-                        HttpMethod.PUT,
-                        "/api/company/**")
-                .hasRole("ADMIN")
+// Recruiter create company
+              .requestMatchers(
+        HttpMethod.POST,
+        "/api/company/**")
+.hasRole("RECRUITER")
+// Recruiter update company
+.requestMatchers(
+        HttpMethod.PUT,
+        "/api/company/**")
+.hasRole("RECRUITER")
 
 
 

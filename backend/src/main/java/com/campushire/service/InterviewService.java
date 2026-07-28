@@ -25,6 +25,7 @@ public class InterviewService {
     private final ApplicationRepository applicationRepository;
     private final UserRepository userRepository;
     private final NotificationService notificationService;
+    private final EmailService emailService;	
 
     public InterviewResponseDTO createInterview(InterviewRequestDTO request) {
         Application application = applicationRepository.findById(request.getApplicationId())
@@ -41,6 +42,18 @@ public class InterviewService {
                 "Interview scheduled for " + application.getJob().getTitle(),
                 NotificationType.INTERVIEW_SCHEDULED
         );
+	emailService.sendEmail(
+        application.getStudent().getUser().getEmail(),
+        "Interview Scheduled - CampusHire",
+        "Dear " + application.getStudent().getUser().getFullName() + ",\n\n" +
+        "Your interview has been scheduled.\n\n" +
+        "Job: " + application.getJob().getTitle() + "\n" +
+        "Date & Time: " + request.getInterviewDateTime() + "\n" +
+        "Mode: " + request.getMode() + "\n" +
+        "Meeting Link: " + request.getMeetingLink() + "\n\n" +
+        "Best of luck!\n\n" +
+        "CampusHire Team"
+);
         return convertToDTO(savedInterview);
     }
 

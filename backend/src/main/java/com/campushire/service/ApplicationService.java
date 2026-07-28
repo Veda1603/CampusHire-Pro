@@ -56,11 +56,13 @@ public class ApplicationService {
         Student student = studentRepository.findByUserId(user.getId())
                 .orElseThrow(() -> new RuntimeException("Student profile not found"));
 
-        // Check if student has already applied for this job
-     // Check if student has already applied for this job
-        if (applicationRepository.existsByStudentAndJob(student, job)) {
-            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "You have already applied for this job");
-        }
+      if (applicationRepository.existsByJobIdAndStudentId(
+        job.getId(),
+        student.getId())) {
+
+    throw new RuntimeException(
+            "You have already applied for this job.");
+}
         
         Application application = new Application();
         application.setJob(job);

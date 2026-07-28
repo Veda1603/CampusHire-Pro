@@ -22,6 +22,20 @@ public class GlobalExceptionHandler {
                 HttpStatus.NOT_FOUND
         );
     }
+@ExceptionHandler(RuntimeException.class)
+public ResponseEntity<ApiError> handleRuntimeException(
+        RuntimeException ex) {
+
+    ApiError error = new ApiError(
+            400,
+            ex.getMessage()
+    );
+
+    return new ResponseEntity<>(
+            error,
+            HttpStatus.BAD_REQUEST
+    );
+}
     @ExceptionHandler(Exception.class)
     public ResponseEntity<ApiError> handleException(
             Exception ex) {
