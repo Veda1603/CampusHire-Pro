@@ -1,0 +1,7 @@
+$kind: http-request
+name: Get education by student
+method: GET
+url: '{{base_url}}/api/education/{{student_id}}'
+order: 3110
+headers:
+  Authorization: 'Bearer {{auth_token}}'

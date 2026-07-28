@@ -1,0 +1,17 @@
+$kind: http-request
+name: Save job preferences
+method: POST
+url: "{{base_url}}/api/job-preferences"
+order: 3700
+headers:
+  Content-Type: application/json
+  Authorization: Bearer {{auth_token}}
+body:
+  type: json
+  content: |-
+    {
+      "studentId": 4,
+      "preferredRole": "Backend Developer",
+      "preferredLocation": "Bengaluru",
+      "expectedSalary": 1200000
+    }

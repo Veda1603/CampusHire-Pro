@@ -1,0 +1,7 @@
+$kind: http-request
+name: Get experience by student
+method: GET
+url: '{{base_url}}/api/experience/{{student_id}}'
+order: 3010
+headers:
+  Authorization: 'Bearer {{auth_token}}'

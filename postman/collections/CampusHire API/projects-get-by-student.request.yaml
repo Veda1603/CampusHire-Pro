@@ -1,0 +1,7 @@
+$kind: http-request
+name: Get projects by student
+method: GET
+url: '{{base_url}}/api/projects/{{student_id}}'
+order: 3510
+headers:
+  Authorization: 'Bearer {{auth_token}}'

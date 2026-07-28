@@ -1,0 +1,19 @@
+$kind: http-request
+name: Add experience
+method: POST
+url: "{{base_url}}/api/experience"
+order: 3000
+headers:
+  Content-Type: application/json
+  Authorization: Bearer {{auth_token}}
+body:
+  type: json
+  content: |-
+    {
+      "studentId": 4,
+      "companyName": "Acme Corp",
+      "role": "Backend Intern",
+      "description": "Built REST APIs",
+      "startDate": "2025-01-01",
+      "endDate": "2025-06-01"
+    }

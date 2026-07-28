@@ -1,0 +1,17 @@
+$kind: http-request
+name: Add project
+method: POST
+url: "{{base_url}}/api/projects"
+order: 3500
+headers:
+  Content-Type: application/json
+  Authorization: Bearer {{auth_token}}
+body:
+  type: json
+  content: |-
+    {
+      "studentId": 4,
+      "title": "Campus Portal",
+      "description": "A portal for campus hiring workflows",
+      "projectUrl": "https://github.com/example/campus-portal"
+    }

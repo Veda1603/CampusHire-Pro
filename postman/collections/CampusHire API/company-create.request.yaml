@@ -2,6 +2,10 @@ $kind: http-request
 name: Create company
 method: POST
 url: "{{base_url}}/api/company"
+auth:
+  type: bearer
+  credentials:
+    token: "{{json_web_token_0l55}}"
 order: 10000
 headers:
   Content-Type: application/json

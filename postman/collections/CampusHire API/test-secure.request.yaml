@@ -1,0 +1,7 @@
+$kind: http-request
+name: Test secure endpoint
+method: GET
+url: '{{base_url}}/api/test/secure'
+order: 4040
+headers:
+  Authorization: 'Bearer {{auth_token}}'

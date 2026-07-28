@@ -1,0 +1,15 @@
+$kind: http-request
+name: Add resume record
+method: POST
+url: "{{base_url}}/api/resumes"
+order: 3800
+headers:
+  Content-Type: application/json
+  Authorization: Bearer {{auth_token}}
+body:
+  type: json
+  content: |-
+    {
+      "studentId": 4,
+      "resumeUrl": "https://example.com/resume.pdf"
+    }

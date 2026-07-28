@@ -1,0 +1,7 @@
+$kind: http-request
+name: Get social links by student
+method: GET
+url: '{{base_url}}/api/social-links/{{student_id}}'
+order: 3410
+headers:
+  Authorization: 'Bearer {{auth_token}}'

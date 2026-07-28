@@ -1,0 +1,7 @@
+$kind: http-request
+name: Mark notification as read
+method: PUT
+url: '{{base_url}}/api/notifications/{{notification_id}}/read'
+order: 4010
+headers:
+  Authorization: 'Bearer {{auth_token}}'

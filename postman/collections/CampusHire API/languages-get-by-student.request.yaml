@@ -1,0 +1,7 @@
+$kind: http-request
+name: Get languages by student
+method: GET
+url: '{{base_url}}/api/languages/{{student_id}}'
+order: 3610
+headers:
+  Authorization: 'Bearer {{auth_token}}'

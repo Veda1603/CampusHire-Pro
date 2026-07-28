@@ -1,16 +1,19 @@
 $kind: http-request
-name: 'Add skill'
+name: Add skill
 method: POST
-url: '{{base_url}}/api/skills'
+url: "{{base_url}}/api/skills"
+auth:
+  type: bearer
+  credentials:
+    token: "{{json_web_token_084a}}"
 order: 25000
 headers:
-  - key: Content-Type
-    value: application/json
+  Content-Type: application/json
 body:
   type: json
   content: |-
     {
-      "studentId": 1,
+      "studentId": 4,
       "skillName": "Java",
       "proficiency": "INTERMEDIATE"
     }

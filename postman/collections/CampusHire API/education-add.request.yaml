@@ -1,0 +1,19 @@
+$kind: http-request
+name: Add education
+method: POST
+url: "{{base_url}}/api/education"
+order: 3100
+headers:
+  Content-Type: application/json
+  Authorization: Bearer {{auth_token}}
+body:
+  type: json
+  content: |-
+    {
+      "studentId": 4,
+      "institution": "ABC University",
+      "degree": "B.Tech",
+      "fieldOfStudy": "Computer Science",
+      "startYear": 2021,
+      "endYear": 2025
+    }

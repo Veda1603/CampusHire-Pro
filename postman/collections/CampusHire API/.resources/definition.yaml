@@ -1,5 +1,18 @@
 $kind: collection
 name: CampusHire API
 variables:
-  base_url: http://localhost:8080
-  auth_token: ""
+  - key: base_url
+    value: http://localhost:8080
+    disabled: false
+  - key: auth_token
+    value: ""
+    disabled: false
+  - key: json_web_token_0l55
+    secret: true
+    disabled: false
+  - key: json_web_token_084a
+    secret: true
+    disabled: false
+  - key: ""
+    value: ""
+    disabled: false

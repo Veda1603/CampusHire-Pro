@@ -1,0 +1,21 @@
+$kind: http-request
+name: Create interview
+method: POST
+url: "{{base_url}}/api/interviews"
+auth:
+  type: bearer
+  credentials:
+    token: "{{json_web_token_084a}}"
+order: 3900
+headers:
+  Content-Type: application/json
+  Authorization: Bearer {{auth_token}}
+body:
+  type: json
+  content: |-
+    {
+      "applicationId": 1,
+      "interviewDateTime": "2026-07-30T10:00:00",
+      "mode": "GOOGLE_MEET",
+      "meetingLink": "https://meet.example.com/interview"
+    }

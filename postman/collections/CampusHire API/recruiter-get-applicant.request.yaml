@@ -1,0 +1,7 @@
+$kind: http-request
+name: Get recruiter applicant
+method: GET
+url: '{{base_url}}/api/recruiter/applicants/{{application_id}}'
+order: 4030
+headers:
+  Authorization: 'Bearer {{auth_token}}'

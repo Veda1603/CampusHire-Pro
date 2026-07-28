@@ -1,0 +1,17 @@
+$kind: http-request
+name: Save social links
+method: POST
+url: "{{base_url}}/api/social-links"
+order: 3400
+headers:
+  Content-Type: application/json
+  Authorization: Bearer {{auth_token}}
+body:
+  type: json
+  content: |-
+    {
+      "studentId": 4,
+      "linkedin": "https://linkedin.com/in/example",
+      "github": "https://github.com/example",
+      "portfolio": "https://example.dev"
+    }

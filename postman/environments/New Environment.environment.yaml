@@ -6,7 +6,13 @@ values:
     value: ''
   - key: job_id
     value: ''
+  - key: application_id
+    value: ''
+  - key: student_id
+    value: ''
   - key: '{{auth_token}}'
     secret: true
-  - key: application_id
+  - key: interview_id
+    value: ''
+  - key: notification_id
     value: ''

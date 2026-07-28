@@ -1,0 +1,14 @@
+$kind: http-request
+name: Update interview status
+method: PUT
+url: '{{base_url}}/api/interviews/{{interview_id}}/status'
+order: 3940
+headers:
+  Content-Type: application/json
+  Authorization: 'Bearer {{auth_token}}'
+body:
+  type: json
+  content: |-
+    {
+      "status": "SCHEDULED"
+    }

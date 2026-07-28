@@ -1,0 +1,7 @@
+$kind: http-request
+name: Get recruiter dashboard
+method: GET
+url: '{{base_url}}/api/recruiter/dashboard'
+order: 4020
+headers:
+  Authorization: 'Bearer {{auth_token}}'

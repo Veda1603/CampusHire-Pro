@@ -1,0 +1,7 @@
+$kind: http-request
+name: Get resumes by student
+method: GET
+url: '{{base_url}}/api/resumes/{{student_id}}'
+order: 3810
+headers:
+  Authorization: 'Bearer {{auth_token}}'

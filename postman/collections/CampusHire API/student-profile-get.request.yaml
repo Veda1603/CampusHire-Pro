@@ -1,5 +1,9 @@
 $kind: http-request
-name: 'Get student profile details'
+name: Get student profile details
 method: GET
-url: '{{base_url}}/api/student-profile/{{student_id}}'
+url: "{{base_url}}/api/student-profile/{{student_id}}"
+auth:
+  type: bearer
+  credentials:
+    token: "{{json_web_token_084a}}"
 order: 24000

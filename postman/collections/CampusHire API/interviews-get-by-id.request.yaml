@@ -1,0 +1,7 @@
+$kind: http-request
+name: Get interview by id
+method: GET
+url: '{{base_url}}/api/interviews/{{interview_id}}'
+order: 3920
+headers:
+  Authorization: 'Bearer {{auth_token}}'

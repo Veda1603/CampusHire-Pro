@@ -1,16 +1,19 @@
 $kind: http-request
-name: 'Create student profile details'
+name: Create student profile details
 method: POST
-url: '{{base_url}}/api/student-profile'
+url: "{{base_url}}/api/student-profile"
+auth:
+  type: bearer
+  credentials:
+    token: "{{json_web_token_084a}}"
 order: 23000
 headers:
-  - key: Content-Type
-    value: application/json
+  Content-Type: application/json
 body:
   type: json
   content: |-
     {
-      "studentId": 1,
+      "studentId": 4,
       "headline": "Final year CS student",
       "summary": "Interested in backend development"
     }

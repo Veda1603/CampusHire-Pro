@@ -1,0 +1,18 @@
+$kind: http-request
+name: Add certification
+method: POST
+url: "{{base_url}}/api/certifications"
+order: 3300
+headers:
+  Content-Type: application/json
+  Authorization: Bearer {{auth_token}}
+body:
+  type: json
+  content: |-
+    {
+      "studentId": 4,
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon",
+      "issueDate": "2025-02-01",
+      "credentialId": "ABC-123"
+    }
