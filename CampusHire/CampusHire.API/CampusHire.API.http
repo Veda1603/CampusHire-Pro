@@ -1,0 +1,6 @@
+@CampusHire.API_HostAddress = http://localhost:5239
+
+GET {{CampusHire.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

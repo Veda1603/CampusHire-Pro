@@ -1,0 +1,1176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\implementations\\passwordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\implementations\\passwordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\entities\\placementresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\entities\\placementresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\data\\campushiredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\data\\campushiredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\implementations\\placementdriveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\implementations\\placementdriveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\controllers\\placementresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\controllers\\placementresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\implementations\\placementresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\implementations\\placementresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\interfaces\\iplacementresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\interfaces\\iplacementresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\repositories\\implementations\\placementresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\repositories\\implementations\\placementresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\repositories\\interfaces\\iplacementresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\repositories\\interfaces\\iplacementresultrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\placementresult\\updateplacementresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\placementresult\\updateplacementresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\placementresult\\createplacementresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\placementresult\\createplacementresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\placementresult\\placementresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\placementresult\\placementresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\controllers\\registrationdeadlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\controllers\\registrationdeadlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\implementations\\registrationdeadlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\implementations\\registrationdeadlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\interfaces\\iregistrationdeadlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\interfaces\\iregistrationdeadlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\repositories\\implementations\\registrationdeadlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\repositories\\implementations\\registrationdeadlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\repositories\\interfaces\\iregistrationdeadlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\repositories\\interfaces\\iregistrationdeadlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\registrationdeadline\\updateregistrationdeadlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\registrationdeadline\\updateregistrationdeadlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\registrationdeadline\\createregistrationdeadlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\registrationdeadline\\createregistrationdeadlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\registrationdeadline\\registrationdeadlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\registrationdeadline\\registrationdeadlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\entities\\registrationdeadline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\entities\\registrationdeadline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\entities\\eligibilitycriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\entities\\eligibilitycriteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\controllers\\eligibilitycriteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\controllers\\eligibilitycriteriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\implementations\\eligibilitycriteriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\implementations\\eligibilitycriteriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\interfaces\\ieligibilitycriteriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\interfaces\\ieligibilitycriteriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\repositories\\implementations\\eligibilitycriteriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\repositories\\implementations\\eligibilitycriteriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\repositories\\interfaces\\ieligibilitycriteriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\repositories\\interfaces\\ieligibilitycriteriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\eligibility\\updateeligibilitycriteriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\eligibility\\updateeligibilitycriteriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\eligibility\\createeligibilitycriteriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\eligibility\\createeligibilitycriteriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\eligibility\\eligibilitycriteriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\eligibility\\eligibilitycriteriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\entities\\studentverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\entities\\studentverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\student\\studentverificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\student\\studentverificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\student\\createstudentverificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\student\\createstudentverificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\implementations\\studentverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\implementations\\studentverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\student\\updatestudentverificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\student\\updatestudentverificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\student\\verificationhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\student\\verificationhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\entities\\verificationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\entities\\verificationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\models\\passwordresettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\models\\passwordresettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\interfaces\\ipasswordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\interfaces\\ipasswordresetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\implementations\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\implementations\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\dashboard\\dashboardresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\dashboard\\dashboardresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\implementations\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\implementations\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\admin\\updateadminprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\admin\\updateadminprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\common\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\common\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\report\\reportfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\report\\reportfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\dtos\\admin\\registeradmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\dtos\\admin\\registeradmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\implementations\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\implementations\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\campushire.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\campushire.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|c:\\users\\vaidehi patil\\campushire-pro\\campushire\\campushire.api\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFEE1B9-8282-C9D0-0808-1B242B6DF25F}|CampusHire.API\\CampusHire.API.csproj|solutionrelative:campushire.api\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\EmailService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Implementations\\EmailService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\EmailService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Implementations\\EmailService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:04:32.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:04:10.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Models\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "CampusHire.API\\Models\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:02:28.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CampusHire.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\appsettings.json",
+              "RelativeToolTip": "CampusHire.API\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-28T16:23:09.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Program.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Program.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Program.cs",
+              "RelativeToolTip": "CampusHire.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:20:19.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordResetService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\PasswordResetService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Implementations\\PasswordResetService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\PasswordResetService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Implementations\\PasswordResetService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:25:50.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "CampusHire.API\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T16:22:31.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlacementDriveService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\PlacementDriveService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Implementations\\PlacementDriveService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\PlacementDriveService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Implementations\\PlacementDriveService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T13:11:30.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CampusHireDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Data\\CampusHireDbContext.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Data\\CampusHireDbContext.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Data\\CampusHireDbContext.cs",
+              "RelativeToolTip": "CampusHire.API\\Data\\CampusHireDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:27:57.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlacementResult.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Entities\\PlacementResult.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Entities\\PlacementResult.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Entities\\PlacementResult.cs",
+              "RelativeToolTip": "CampusHire.API\\Entities\\PlacementResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:52:46.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "CampusHire.API\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:56:03.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlacementResultController.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\PlacementResultController.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Controllers\\PlacementResultController.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\PlacementResultController.cs",
+              "RelativeToolTip": "CampusHire.API\\Controllers\\PlacementResultController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:58:08.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlacementResultService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\PlacementResultService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Implementations\\PlacementResultService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\PlacementResultService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Implementations\\PlacementResultService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:56:53.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPlacementResultService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IPlacementResultService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Interfaces\\IPlacementResultService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IPlacementResultService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Interfaces\\IPlacementResultService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:56:37.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlacementResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Implementations\\PlacementResultRepository.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Repositories\\Implementations\\PlacementResultRepository.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Implementations\\PlacementResultRepository.cs",
+              "RelativeToolTip": "CampusHire.API\\Repositories\\Implementations\\PlacementResultRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:56:14.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPlacementResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Interfaces\\IPlacementResultRepository.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Repositories\\Interfaces\\IPlacementResultRepository.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Interfaces\\IPlacementResultRepository.cs",
+              "RelativeToolTip": "CampusHire.API\\Repositories\\Interfaces\\IPlacementResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:55:59.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdatePlacementResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\PlacementResult\\UpdatePlacementResultDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\PlacementResult\\UpdatePlacementResultDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\PlacementResult\\UpdatePlacementResultDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\PlacementResult\\UpdatePlacementResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:54:25.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreatePlacementResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\PlacementResult\\CreatePlacementResultDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\PlacementResult\\CreatePlacementResultDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\PlacementResult\\CreatePlacementResultDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\PlacementResult\\CreatePlacementResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:54:15.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlacementResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\PlacementResult\\PlacementResultDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\PlacementResult\\PlacementResultDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\PlacementResult\\PlacementResultDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\PlacementResult\\PlacementResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:54:03.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrationDeadlineController.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\RegistrationDeadlineController.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Controllers\\RegistrationDeadlineController.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\RegistrationDeadlineController.cs",
+              "RelativeToolTip": "CampusHire.API\\Controllers\\RegistrationDeadlineController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:48:22.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistrationDeadlineService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\RegistrationDeadlineService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Implementations\\RegistrationDeadlineService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\RegistrationDeadlineService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Implementations\\RegistrationDeadlineService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:47:55.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRegistrationDeadlineService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IRegistrationDeadlineService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Interfaces\\IRegistrationDeadlineService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IRegistrationDeadlineService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Interfaces\\IRegistrationDeadlineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:47:39.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegistrationDeadlineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Implementations\\RegistrationDeadlineRepository.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Repositories\\Implementations\\RegistrationDeadlineRepository.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Implementations\\RegistrationDeadlineRepository.cs",
+              "RelativeToolTip": "CampusHire.API\\Repositories\\Implementations\\RegistrationDeadlineRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:47:11.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRegistrationDeadlineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Interfaces\\IRegistrationDeadlineRepository.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Repositories\\Interfaces\\IRegistrationDeadlineRepository.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Interfaces\\IRegistrationDeadlineRepository.cs",
+              "RelativeToolTip": "CampusHire.API\\Repositories\\Interfaces\\IRegistrationDeadlineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:46:54.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateRegistrationDeadlineDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\RegistrationDeadline\\UpdateRegistrationDeadlineDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\RegistrationDeadline\\UpdateRegistrationDeadlineDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\RegistrationDeadline\\UpdateRegistrationDeadlineDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\RegistrationDeadline\\UpdateRegistrationDeadlineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:45:36.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateRegistrationDeadlineDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\RegistrationDeadline\\CreateRegistrationDeadlineDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\RegistrationDeadline\\CreateRegistrationDeadlineDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\RegistrationDeadline\\CreateRegistrationDeadlineDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\RegistrationDeadline\\CreateRegistrationDeadlineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:45:22.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegistrationDeadlineDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\RegistrationDeadline\\RegistrationDeadlineDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\RegistrationDeadline\\RegistrationDeadlineDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\RegistrationDeadline\\RegistrationDeadlineDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\RegistrationDeadline\\RegistrationDeadlineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:45:07.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegistrationDeadline.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Entities\\RegistrationDeadline.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Entities\\RegistrationDeadline.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Entities\\RegistrationDeadline.cs",
+              "RelativeToolTip": "CampusHire.API\\Entities\\RegistrationDeadline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:43:20.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EligibilityCriteriaController.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\EligibilityCriteriaController.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Controllers\\EligibilityCriteriaController.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\EligibilityCriteriaController.cs",
+              "RelativeToolTip": "CampusHire.API\\Controllers\\EligibilityCriteriaController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:09:20.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EligibilityCriteriaService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\EligibilityCriteriaService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Implementations\\EligibilityCriteriaService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\EligibilityCriteriaService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Implementations\\EligibilityCriteriaService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:08:52.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEligibilityCriteriaService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IEligibilityCriteriaService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Interfaces\\IEligibilityCriteriaService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IEligibilityCriteriaService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Interfaces\\IEligibilityCriteriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:08:35.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EligibilityCriteria.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Entities\\EligibilityCriteria.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Entities\\EligibilityCriteria.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Entities\\EligibilityCriteria.cs",
+              "RelativeToolTip": "CampusHire.API\\Entities\\EligibilityCriteria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:05:21.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EligibilityCriteriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Implementations\\EligibilityCriteriaRepository.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Repositories\\Implementations\\EligibilityCriteriaRepository.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Implementations\\EligibilityCriteriaRepository.cs",
+              "RelativeToolTip": "CampusHire.API\\Repositories\\Implementations\\EligibilityCriteriaRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:08:04.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IEligibilityCriteriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Interfaces\\IEligibilityCriteriaRepository.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Repositories\\Interfaces\\IEligibilityCriteriaRepository.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Repositories\\Interfaces\\IEligibilityCriteriaRepository.cs",
+              "RelativeToolTip": "CampusHire.API\\Repositories\\Interfaces\\IEligibilityCriteriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:07:46.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateEligibilityCriteriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Eligibility\\UpdateEligibilityCriteriaDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Eligibility\\UpdateEligibilityCriteriaDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Eligibility\\UpdateEligibilityCriteriaDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Eligibility\\UpdateEligibilityCriteriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:07:07.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateEligibilityCriteriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Eligibility\\CreateEligibilityCriteriaDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Eligibility\\CreateEligibilityCriteriaDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Eligibility\\CreateEligibilityCriteriaDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Eligibility\\CreateEligibilityCriteriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:06:46.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EligibilityCriteriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Eligibility\\EligibilityCriteriaDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Eligibility\\EligibilityCriteriaDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Eligibility\\EligibilityCriteriaDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Eligibility\\EligibilityCriteriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:06:28.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateStudentVerificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Student\\CreateStudentVerificationDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Student\\CreateStudentVerificationDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Student\\CreateStudentVerificationDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Student\\CreateStudentVerificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:53:09.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StudentVerificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Student\\StudentVerificationDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Student\\StudentVerificationDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Student\\StudentVerificationDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Student\\StudentVerificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:52:46.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StudentVerificationService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\StudentVerificationService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Implementations\\StudentVerificationService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\StudentVerificationService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Implementations\\StudentVerificationService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAjwD0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:54:19.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StudentVerification.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Entities\\StudentVerification.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Entities\\StudentVerification.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Entities\\StudentVerification.cs",
+              "RelativeToolTip": "CampusHire.API\\Entities\\StudentVerification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:51:10.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateStudentVerificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Student\\UpdateStudentVerificationDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Student\\UpdateStudentVerificationDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Student\\UpdateStudentVerificationDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Student\\UpdateStudentVerificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:53:43.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VerificationHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Student\\VerificationHistoryDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Student\\VerificationHistoryDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Student\\VerificationHistoryDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Student\\VerificationHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:43:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "VerificationHistory.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Entities\\VerificationHistory.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Entities\\VerificationHistory.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Entities\\VerificationHistory.cs",
+              "RelativeToolTip": "CampusHire.API\\Entities\\VerificationHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:42:18.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CampusHire.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:33:19.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IPasswordResetService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IPasswordResetService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Interfaces\\IPasswordResetService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IPasswordResetService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Interfaces\\IPasswordResetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:25:23.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PasswordResetToken.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Models\\PasswordResetToken.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Models\\PasswordResetToken.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Models\\PasswordResetToken.cs",
+              "RelativeToolTip": "CampusHire.API\\Models\\PasswordResetToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:24:28.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CampusHire.API\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:19:40.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "CampusHire.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:18:58.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\DashboardService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Implementations\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\DashboardService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Implementations\\DashboardService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:18:21.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Interfaces\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IDashboardService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Interfaces\\IDashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:18:07.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DashboardResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Dashboard\\DashboardResponseDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Dashboard\\DashboardResponseDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Dashboard\\DashboardResponseDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Dashboard\\DashboardResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:17:33.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Common\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Common\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Common\\ErrorResponse.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Common\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:14:00.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ReportFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Report\\ReportFilterDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Report\\ReportFilterDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Report\\ReportFilterDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Report\\ReportFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:10:54.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "CampusHire.API\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:09:38.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\AdminService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Implementations\\AdminService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\AdminService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Implementations\\AdminService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwFUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T13:12:43.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "CampusHire.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T13:02:21.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UpdateAdminProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Admin\\UpdateAdminProfileDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Admin\\UpdateAdminProfileDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Admin\\UpdateAdminProfileDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Admin\\UpdateAdminProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:04:08.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CampusHire.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAQwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T13:26:13.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T13:21:06.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RegisterAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Admin\\RegisterAdminDto.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\DTOs\\Admin\\RegisterAdminDto.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\DTOs\\Admin\\RegisterAdminDto.cs",
+              "RelativeToolTip": "CampusHire.API\\DTOs\\Admin\\RegisterAdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T13:28:04.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Models\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "CampusHire.API\\Models\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T13:01:54.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\CourseService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Implementations\\CourseService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\CourseService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Implementations\\CourseService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T13:04:01.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Services\\Implementations\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeToolTip": "CampusHire.API\\Services\\Implementations\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T13:03:32.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CampusHire.API",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\CampusHire.API.csproj",
+              "RelativeDocumentMoniker": "CampusHire.API\\CampusHire.API.csproj",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\CampusHire.API.csproj",
+              "RelativeToolTip": "CampusHire.API\\CampusHire.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-28T13:01:20.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "CampusHire.API\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T12:59:42.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "CampusHire.API\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T12:59:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "CampusHire.API\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\VAIDEHI PATIL\\campushire-pro\\CampusHire\\CampusHire.API\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "CampusHire.API\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T12:59:38.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
