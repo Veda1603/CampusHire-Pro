@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CampusHire.API.Entities
 {
-    public class EmailVerificationToken
+    public class LoginOtp
     {
         [Key]
         public int Id { get; set; }
@@ -14,7 +14,7 @@ namespace CampusHire.API.Entities
         public Admin? Admin { get; set; }
 
         [Required]
-        public string Token { get; set; } = string.Empty;
+        public string OtpCode { get; set; } = string.Empty;
 
         public DateTime ExpiryTime { get; set; }
 

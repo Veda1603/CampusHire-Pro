@@ -30,7 +30,7 @@ namespace CampusHire.API.Mappings
             CreateMap<UpdateStudentVerificationDto, StudentVerification>();
             CreateMap<Admin, AdminDto>().ReverseMap();
             CreateMap<Admin, AdminProfileDto>().ReverseMap();
-            CreateMap<AdminRegisterDto, Admin>();
+            CreateMap<RegisterAdminDto, Admin>();
             CreateMap<UpdateAdminDto, Admin>();
             CreateMap<AdminActivityLog, AdminActivityDto>();
             CreateMap<CreateStudentVerificationDto, StudentVerification>();

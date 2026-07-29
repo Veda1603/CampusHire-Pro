@@ -12,6 +12,7 @@ namespace CampusHire.API.Data
         }
         public DbSet<Admin> Admins { get; set; }
         public DbSet<EmailVerificationToken> EmailVerificationTokens { get; set; }
+        public DbSet<LoginOtp> LoginOtps { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<Course> Courses { get; set; }
         public DbSet<PlacementDrive> PlacementDrives { get; set; }
@@ -22,5 +23,6 @@ namespace CampusHire.API.Data
         public DbSet<EligibilityCriteria> EligibilityCriterias { get; set; }
         public DbSet<RegistrationDeadline> RegistrationDeadlines { get; set; }
         public DbSet<PlacementResult> PlacementResults { get; set; }
+        
     }
 }

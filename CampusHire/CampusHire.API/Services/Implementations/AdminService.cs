@@ -21,14 +21,18 @@ namespace CampusHire.API.Services.Implementations
         private readonly JwtService _jwtService;
 
         public AdminService(
-            IAdminRepository repository,
+             IAdminRepository repository,
             IMapper mapper,
-            IEmailService emailService)
-        {
-            _repository = repository;
-            _mapper = mapper;
-            _emailService = emailService;
-        }
+            IEmailService emailService,
+            ActivityLogger logger,
+            JwtService jwtService)
+                {
+                    _repository = repository;
+                    _mapper = mapper;
+                    _emailService = emailService;
+                    _logger = logger;
+                    _jwtService = jwtService;
+                }
 
         public async Task<List<AdminDto>> GetAllAsync()
         {
@@ -66,8 +70,12 @@ namespace CampusHire.API.Services.Implementations
 
             await _repository.AddAsync(admin);
 
-            var token = Convert.ToBase64String(
-                RandomNumberGenerator.GetBytes(64));
+            var token = Guid.NewGuid().ToString("N");
+
+            admin.EmailVerificationToken = token;
+            admin.EmailVerificationExpiry = DateTime.UtcNow.AddHours(24);
+
+            await _repository.UpdateAsync(admin);
 
             var verificationLink =
                 $"CampusHire Email Verification Token: {token}";

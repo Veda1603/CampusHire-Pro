@@ -67,7 +67,9 @@ builder.Services.AddScoped<IEmailService, EmailService>();
 
 builder.Services.AddScoped<IRegistrationDeadlineRepository, RegistrationDeadlineRepository>();
 builder.Services.AddScoped<IRegistrationDeadlineService, RegistrationDeadlineService>();
-
+builder.Services.AddScoped<IEmailVerificationService, EmailVerificationService>();
+builder.Services.AddScoped<IOtpService, OtpService>();
+builder.Services.AddScoped<ISmsService, SmsService>();
 builder.Services.AddScoped<IPlacementResultRepository, PlacementResultRepository>();
 builder.Services.AddScoped<IPlacementResultService, PlacementResultService>();
 
